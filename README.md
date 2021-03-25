@@ -23,3 +23,7 @@
     - leader-board.service.ts
 - leader-board-routing.module.ts
 - leader-board.module.ts
+
+
+page_1![image](https://user-images.githubusercontent.com/28513779/112450915-90751800-8d5d-11eb-946d-84922051db4f.png)
+page_2![image](https://user-images.githubusercontent.com/28513779/112450936-9539cc00-8d5d-11eb-9e9c-eb35c16c7e3e.png)
